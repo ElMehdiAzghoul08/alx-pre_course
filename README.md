@@ -1,1 +1,1 @@
- README.md in directory updated
+README.md in directory is updated
